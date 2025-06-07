@@ -1,0 +1,17 @@
+{
+  "api_endpoint": {
+    "sensitive": false,
+    "type": "string",
+    "value": "https://api-mock.example.com/prod"
+  },
+  "api_key": {
+    "sensitive": true,
+    "type": "string",
+    "value": "mock-api-key-for-development"
+  },
+  "frontend_url": {
+    "sensitive": false,
+    "type": "string",
+    "value": "https://frontend-mock.example.com"
+  }
+}
