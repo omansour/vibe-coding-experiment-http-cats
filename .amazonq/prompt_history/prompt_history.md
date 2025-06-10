@@ -7,7 +7,7 @@ How to read:
 I trusted all the mcp tools: 
 *
 
-Sometimes q ask me 
+Sometimes q ask me if I wanted to continue, I always said yes.
 
 
 # 1. review the project context 
